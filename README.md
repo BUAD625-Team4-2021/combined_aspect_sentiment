@@ -1,4 +1,4 @@
-# combined_aspect_sentiment
+# Aspect-Based Sentiment Analysis of Airline Tweets
 
 The second classification task in this process is that of sentiment. Combined with the aspect of the tweet classified above, this yields aspect-based sentiment analysis to understand which airlines are receiving the most complaints against which facets of their customer service.
 
