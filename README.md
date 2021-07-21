@@ -48,9 +48,9 @@ The baseline accuracy using a TF-IDF + Naive Bayes Classifier is: 70%.
 
 An additional 4 sentiment models were evaluated against the Airline Tweets dataset:
 
-VADER - SentimentIntensityAnalyzer (nltk): 65%
-Textblob x NaiveBayesAnalyzer (nltk): 69%
-Hugging Face (BERT): 79%
-Fine-tuned Hugging Face (BERT): 89%
+- VADER - SentimentIntensityAnalyzer (nltk): 65%
+- Textblob x NaiveBayesAnalyzer (nltk): 69%
+- Hugging Face (BERT): 79%
+- Fine-tuned Hugging Face (BERT): 89%
 
 Hugging Face with fine tuning was chosen as the final model.
