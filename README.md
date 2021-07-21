@@ -1,5 +1,25 @@
 # Aspect-Based Sentiment Analysis of Airline Tweets
 
+## Project Summary
+
+This project examines tweets and identifies the the aspect or topic of that tweet as well as the customer’s sentiment towards it. This can be used to give a company an evaluation of the topic and its severity, so they can task out whether it requires remediation. The project applies this approach to tweets directed to airlines about their customer service.
+
+## Outcomes
+
+- Fine-tuning the Hugging Face model for sentiment analysis showed drastic improvements in sentiment detection comparatively to the baseline. If the model we’re to deteriorate with time, we are confident that minor tweaks could keep its current accuracy. 
+- Aspect clustering was not as straight forward and required a lot of manual intervention and as of now would not be sustainable. This portion could potentially be outsourced.
+- When customer service is using our model they can continually add input whether a tweet is correctly classified, adding to our training data over time
+- Lastly, we would love to expand our original training dataset to a more current timeframe. With Covid-19 changing travel so drastically there may be new things that aren’t covered with our training set.
+
+## Recommendation
+
+With a refined solution for the aspect identification, our work serves as the basis for building a social listening tool to:
+- Inform customer service on customer complaints are trending
+- Discover new pockets of negative sentiment, or new topics (e.g. complaints surrounding the use of COVID masks)
+- Benchmarking against other companies (i.e. where do we perform better, what should we advertise?)
+
+# Analysis Overview
+See below for an overview of each component of the project, aspect identification and sentiment analysis.
 
 ## Part I. Document Clustering with Python 3
 
