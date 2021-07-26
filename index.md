@@ -1,5 +1,5 @@
-## We are Team Hugging Face <img src="40-408954_smile-face-hugging-emoji-png-download-clipart-emoji.png" width="100" />
-
+# We are Team Hugging Face <img src="40-408954_smile-face-hugging-emoji-png-download-clipart-emoji.png" width="100" />
+---
 ## Project Summary
 
 This project examines tweets and identifies the the aspect or topic of that tweet as well as the customer’s sentiment towards it. This can be used to give a company an evaluation of the topic and its severity, so they can task out whether it requires remediation. The project applies this approach to tweets directed to airlines about their customer service.
