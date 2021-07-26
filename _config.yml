@@ -1,1 +1,3 @@
 theme: jekyll-theme-leap-day
+title: Aspect-Based Sentiment Analysis on Twitter
+description: By taking a set of tweets people have made about an airline, we can break up those tweets into a bag of words that get clustered into various aspects, and then sentiment analysis is run on those aspects to determine how customers feel about a given aspect of an airline.
