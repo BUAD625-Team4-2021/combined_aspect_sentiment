@@ -1,4 +1,4 @@
-## We are team ![GitHub Logo](urhmulzddqdfmlzpk2vn.png)
+## We are Team ![GitHub Logo](urhmulzddqdfmlzpk2vn.png)
 
 # Aspect-Based Sentiment Analysis of Airline Tweets
 
