@@ -1,4 +1,4 @@
-## We are Team ![GitHub Logo](urhmulzddqdfmlzpk2vn.png)
+## We are Team Hugging Face <img src="40-408954_smile-face-hugging-emoji-png-download-clipart-emoji.png" width="100" />
 
 # Aspect-Based Sentiment Analysis of Airline Tweets
 
